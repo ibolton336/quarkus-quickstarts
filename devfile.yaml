@@ -1,6 +1,13 @@
 schemaVersion: 2.2.2
 metadata:
   name: quarkus-quickstart
+attributes:
+  .vscode/extensions.json: |
+    {
+      "recommendations": [
+        "ibolton336.konveyor"
+      ]
+    }
 components:
   - name: tools
     container:
